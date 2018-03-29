@@ -1,0 +1,19 @@
+{
+  "name": "sweggemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatogama/sweggemon.git"
+  },
+  "author": "Renato Gama <renato@gammasoft.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renatogama/sweggemon/issues"
+  },
+  "homepage": "https://github.com/renatogama/sweggemon#readme"
+}
